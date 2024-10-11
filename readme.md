@@ -6,7 +6,7 @@ A Python application that generates a professional CV in PDF format using user-p
 ## Installation 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/PDF-CV-Generator.git
+   git clone https://github.com/JordanVF/PDF-CV-Generator.git
 2. Navigate to the project directory: 
 ```bash
 cd PDF-CV-Generator
